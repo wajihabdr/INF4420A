@@ -1,0 +1,30 @@
+Caracter,Frequency
+(space) ,39
+A ,0
+B ,1
+C ,0
+D ,12
+E ,4
+F ,3
+G ,6
+H ,18
+I ,3
+J ,2
+K ,13
+L ,11
+M ,0
+N ,2
+O ,8
+P ,6
+Q ,5
+R ,11
+S ,3
+T ,2
+U ,8
+V ,14
+W ,18
+X ,7
+Y ,2
+Z ,2
+Nombre total de caracteres : 200,
+Entropie de l'entree : 4.047211,
